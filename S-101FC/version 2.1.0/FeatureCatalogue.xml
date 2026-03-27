@@ -17718,6 +17718,10 @@
 			<S100FC:name>Helipad</S100FC:name>
 			<S100FC:definition>A site on which helicopters may land and take off.</S100FC:definition>
 			<S100FC:code>Helipad</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>652</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
@@ -22523,6 +22527,10 @@
 			<S100FC:name>Structure Over Navigable Water</S100FC:name>
 			<S100FC:definition>A roofed structure erected, or partly erected, over a body of water, to provide protection for a vessel or its cargo.</S100FC:definition>
 			<S100FC:code>StructureOverNavigableWater</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>756</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
@@ -33548,6 +33556,10 @@
 			<S100FC:name>Mooring Area</S100FC:name>
 			<S100FC:definition>An area in which vessels may be secured to mooring buoys</S100FC:definition>
 			<S100FC:code>MooringArea</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>658</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
@@ -44468,6 +44480,10 @@
 			<S100FC:name>Chart 1 Feature</S100FC:name>
 			<S100FC:definition>A feature which exists to support the rendering of graphics or text in order to provide additional information that cannot be encoded using other features.</S100FC:definition>
 			<S100FC:code>Chart1Feature</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>781</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
