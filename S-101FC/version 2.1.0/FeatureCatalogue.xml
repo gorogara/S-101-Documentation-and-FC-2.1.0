@@ -13404,7 +13404,7 @@
 			</S100FC:subAttributeBinding>
 			<S100FC:subAttributeBinding sequential="true">
 				<S100FC:multiplicity>
-					<S100Base:lower>1</S100Base:lower>
+					<S100Base:lower>13</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="tidalStreamValue" />
