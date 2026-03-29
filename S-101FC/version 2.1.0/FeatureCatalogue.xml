@@ -26615,6 +26615,86 @@
 			<S100FC:permittedPrimitives>surface</S100FC:permittedPrimitives>
 		</S100FC:S100_FC_FeatureType>
 		<S100FC:S100_FC_FeatureType isAbstract="false">
+			<S100FC:name>High Confidence Depth Area</S100FC:name>
+			<S100FC:definition>An area that has been determined to a high degree of confidence to be clear of navigational dangers to a specified depth.</S100FC:definition>
+			<S100FC:code>HighConfidenceDepthArea</S100FC:code>
+			<S100FC:alias>SWPARE</S100FC:alias>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>1</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="depthRangeMinimumValue" />
+			</S100FC:attributeBinding>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attributeVisibility>privateVisibility</S100FC:attributeVisibility>
+				<S100FC:attribute ref="interoperabilityIdentifier" />
+			</S100FC:attributeBinding>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="sweptDate" />
+			</S100FC:attributeBinding>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="scaleMinimum" />
+			</S100FC:attributeBinding>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="true" infinite="true" />
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="information" />
+			</S100FC:attributeBinding>
+			<S100FC:informationBinding roleType="association">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:association ref="AdditionalInformation" />
+				<S100FC:role ref="theInformation" />
+				<S100FC:informationType ref="NauticalInformation" />
+			</S100FC:informationBinding>
+			<S100FC:featureUseType>geographic</S100FC:featureUseType>
+			<S100FC:featureBinding roleType="aggregation">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:association ref="FairwayAuxiliary" />
+				<S100FC:role ref="thePrimaryFeature" />
+				<S100FC:featureType ref="Fairway" />
+			</S100FC:featureBinding>
+			<S100FC:featureBinding roleType="association">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="true" infinite="true" />
+				</S100FC:multiplicity>
+				<S100FC:association ref="UpdatedInformation" />
+				<S100FC:role ref="theUpdate" />
+				<S100FC:featureType ref="UpdateInformation" />
+			</S100FC:featureBinding>
+			<S100FC:featureBinding roleType="association">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">2</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:association ref="TextAssociation" />
+				<S100FC:role ref="theCartographicText" />
+				<S100FC:featureType ref="TextPlacement" />
+			</S100FC:featureBinding>
+			<S100FC:permittedPrimitives>surface</S100FC:permittedPrimitives>
+		</S100FC:S100_FC_FeatureType>		
+		<S100FC:S100_FC_FeatureType isAbstract="false">
 			<S100FC:name>Depth Contour</S100FC:name>
 			<S100FC:definition>A line connecting points of equal water depth which is sometimes significantly displaced outside of soundings, symbols, and other chart detail for clarity as well as generalization. Depth contours therefore often represent an approximate location of the line of equal depth as related to the surveyed line delineated on the source.</S100FC:definition>
 			<S100FC:code>DepthContour</S100FC:code>
