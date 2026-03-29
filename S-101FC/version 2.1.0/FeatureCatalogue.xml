@@ -7371,6 +7371,9 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>text</S100FC:valueType>
+			<S100FC:constraints>
+				<S100CD:textPattern>^\d{3}.{4}[A-Z0-9_]{1,10}\.TXT$</S100CD:textPattern>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Flare Bearing</S100FC:name>
