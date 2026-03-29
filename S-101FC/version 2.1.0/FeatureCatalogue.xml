@@ -3880,7 +3880,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Waiting Area</S100FC:label>
-					<S100FC:definition>An area reserved for vessels waiting to enter a harbour.</S100FC:definition>
+					<S100FC:definition>Locations or berths as designated by the relevant Port authority for the purpose of becoming an “Arrived Ship” for tendering Notice Of Readiness. The area may be outside the legal, fiscal, or administrative area of the port, but it must be clear that ships are ordered to wait in this area for their turn.</S100FC:definition>
 					<S100FC:code>19</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>408</S100FC:sourceIdentifier>
