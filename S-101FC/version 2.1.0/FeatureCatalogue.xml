@@ -7452,6 +7452,12 @@
 			<S100FC:definition>A numeric value used to indicate that datasets are intended to form a seamless presentation.</S100FC:definition>
 			<S100FC:code>drawingIndex</S100FC:code>
 			<S100FC:valueType>integer</S100FC:valueType>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>1</S100Base:lowerBound>
+					<S100Base:closure>geSemiInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Full Seafloor Coverage Achieved</S100FC:name>
