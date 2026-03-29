@@ -11353,6 +11353,14 @@
 				<S100Base:name>Hour</S100Base:name>
 				<S100Base:symbol>hour</S100Base:symbol>
 			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>-6</S100Base:lowerBound>
+					<S100Base:upperBound>6</S100Base:upperBound>
+					<S100Base:closure>closedInterval</S100Base:closure>
+				</S100CD:range>
+				<S100CD:precision>1</S100CD:precision>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Topmark/Daymark Shape</S100FC:name>
