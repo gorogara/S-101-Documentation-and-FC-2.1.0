@@ -10365,7 +10365,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Station Name</S100FC:name>
-			<S100FC:definition>The name of the reference tide station with reference water level for tidal stream panel observations.</S100FC:definition>
+			<S100FC:definition>The name of the reference tide station with reference to water level for tidal level and tidal stream panel observations.</S100FC:definition>
 			<S100FC:code>stationName</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>1196</S100FC:sourceIdentifier>
