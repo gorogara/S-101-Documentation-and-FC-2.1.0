@@ -41732,6 +41732,7 @@
 					<S100FC:value>6</S100FC:value>
 					<S100FC:value>7</S100FC:value>
 					<S100FC:value>8</S100FC:value>
+					<S100FC:value>9/S100FC:value>
 					<S100FC:value>11</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="natureOfConstruction" />
