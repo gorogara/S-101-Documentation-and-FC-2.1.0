@@ -27942,6 +27942,7 @@
 					<S100FC:value>21</S100FC:value>
 					<S100FC:value>22</S100FC:value>
 					<S100FC:value>23</S100FC:value>
+					<S100FC:value>24</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="categoryOfObstruction" />
 			</S100FC:attributeBinding>
