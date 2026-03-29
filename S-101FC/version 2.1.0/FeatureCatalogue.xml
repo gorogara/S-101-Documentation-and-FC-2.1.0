@@ -8678,6 +8678,13 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>integer</S100FC:valueType>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>1</S100Base:lowerBound>
+					<S100Base:upperBound>10000000</S100Base:upperBound>
+					<S100Base:closure>closedInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Maximum Anchorage Time</S100FC:name>
