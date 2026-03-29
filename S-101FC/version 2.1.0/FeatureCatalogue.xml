@@ -15141,6 +15141,7 @@
 				<S100FC:featureType ref="DeepWaterRoutePart" />
 				<S100FC:featureType ref="DepthArea" />
 				<S100FC:featureType ref="DepthContour" />
+				<S100FC:featureType ref="DepthDiscontinuity" />
 				<S100FC:featureType ref="DepthNoBottomFound" />
 				<S100FC:featureType ref="DiscolouredWater" />
 				<S100FC:featureType ref="DistanceMark" />
