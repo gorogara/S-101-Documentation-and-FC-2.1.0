@@ -11257,8 +11257,8 @@
 			</S100FC:uom>
 			<S100FC:constraints>
 				<S100CD:range>
-					<S100Base:lowerBound>0.0</S100Base:lowerBound>
-					<S100Base:upperBound>360.0</S100Base:upperBound>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>360</S100Base:upperBound>
 					<S100Base:closure>geLtInterval</S100Base:closure>
 				</S100CD:range>
 			</S100FC:constraints>
