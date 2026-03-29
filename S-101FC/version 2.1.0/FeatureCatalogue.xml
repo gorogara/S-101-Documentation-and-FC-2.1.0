@@ -13831,7 +13831,7 @@
 		</S100FC:S100_FC_ComplexAttribute>
 		<S100FC:S100_FC_ComplexAttribute>
 			<S100FC:name>Vessel Speed Limit</S100FC:name>
-			<S100FC:definition>The maximum allowed rate of travel for a vessel in an area in knots.</S100FC:definition>
+			<S100FC:definition>The maximum allowed rate of travel for a vessel in an area.</S100FC:definition>
 			<S100FC:code>vesselSpeedLimit</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>266</S100FC:sourceIdentifier>
