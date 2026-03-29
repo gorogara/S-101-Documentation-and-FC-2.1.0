@@ -12434,6 +12434,33 @@
 	</S100FC:S100_FC_SimpleAttributes>
 	<S100FC:S100_FC_ComplexAttributes>
 		<S100FC:S100_FC_ComplexAttribute>
+			<S100FC:name>Datum Difference Information</S100FC:name>
+			<S100FC:definition>The complex attribute provides the information related to the datum used for vertical clearances and heights, and the numeric difference between this datum and the sounding datum, at a referenced location.</S100FC:definition>
+			<S100FC:code>datumDifferenceInformation</S100FC:code>
+			<S100FC:subAttributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="datumDifferenceValue" />
+			</S100FC:subAttributeBinding>
+			<S100FC:subAttributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="stationName" />
+			</S100FC:subAttributeBinding>
+			<S100FC:subAttributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>1</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="verticalDatum" />
+			</S100FC:subAttributeBinding>
+		</S100FC:S100_FC_ComplexAttribute>	
+	<S100FC:S100_FC_ComplexAttributes>
+		<S100FC:S100_FC_ComplexAttribute>
 			<S100FC:name>Directional Character</S100FC:name>
 			<S100FC:definition>A directional light is a light illuminating a sector of very narrow angle and intended to mark a direction to follow.</S100FC:definition>
 			<S100FC:code>directionalCharacter</S100FC:code>
