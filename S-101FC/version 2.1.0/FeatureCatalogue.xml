@@ -8561,6 +8561,22 @@
 			<S100FC:valueType>integer</S100FC:valueType>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
+			<S100FC:name>Maximum Anchorage Time</S100FC:name>
+			<S100FC:definition>The maximum period of time that a vessel may anchor at a location, as determined by a relevant authority.</S100FC:definition>
+			<S100FC:code>maximumAnchorageTime</S100FC:code>
+			<S100FC:valueType>integer</S100FC:valueType>
+			<S100FC:uom>
+				<S100Base:name>Hour</S100Base:name>
+				<S100Base:symbol>hour</S100Base:symbol>
+			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>1</S100Base:lowerBound>
+					<S100Base:closure>geSemiInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>			
+		</S100FC:S100_FC_SimpleAttribute>		
+		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Maximum Permitted Draught</S100FC:name>
 			<S100FC:definition>The maximum draught of a vessel permitted along a route, in a channel or dock, at a berth, or over a submerged feature.</S100FC:definition>
 			<S100FC:code>maximumPermittedDraught</S100FC:code>
