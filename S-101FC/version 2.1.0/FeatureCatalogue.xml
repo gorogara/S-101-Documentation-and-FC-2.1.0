@@ -6515,7 +6515,7 @@
 			<S100FC:listedValues>
 				<S100FC:listedValue>
 					<S100FC:label>Zone of Confidence A1</S100FC:label>
-					<S100FC:definition>Positional Accuracy +/- 5 metres + 5% depth; Depth Accuracy 0.5 metre + 1% depth; Full area search undertaken. Significant seafloor features detected and depths measured; Controlled, systematic survey, high position and depth accuracy achieved using DGPS or a minimum three high quality lines of position (LOP) and a multibeam, channel or mechanical sweep system.</S100FC:definition>
+					<S100FC:definition>Positional Accuracy +/- 5 metres + 5% depth; Depth Accuracy 0.5 metre + 1% depth; Full area search undertaken. Significant seafloor features detected and depths measured; Controlled, systematic survey, high position and depth accuracy achieved using DGNSS positioning or a minimum three high quality lines of position (LOP) and a multibeam, channel or mechanical sweep system.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1308</S100FC:sourceIdentifier>
