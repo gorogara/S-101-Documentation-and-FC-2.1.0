@@ -11835,6 +11835,14 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>1</S100Base:upperBound>
+					<S100Base:closure>openInterval</S100Base:closure>
+				</S100CD:range>
+				<S100CD:precision>2</S100CD:precision>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Underlying Layer</S100FC:name>
