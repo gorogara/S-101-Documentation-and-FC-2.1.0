@@ -10184,10 +10184,11 @@
 			<S100FC:quantitySpecification>planeAngle</S100FC:quantitySpecification>
 			<S100FC:constraints>
 				<S100CD:range>
-					<S100Base:lowerBound>0.0</S100Base:lowerBound>
-					<S100Base:upperBound>360.0</S100Base:upperBound>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>360</S100Base:upperBound>
 					<S100Base:closure>geLtInterval</S100Base:closure>
 				</S100CD:range>
+				<S100CD:precision>2</S100CD:precision>
 			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
