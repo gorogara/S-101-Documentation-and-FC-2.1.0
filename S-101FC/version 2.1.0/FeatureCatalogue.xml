@@ -14849,6 +14849,7 @@
 					<S100FC:value>26</S100FC:value>
 					<S100FC:value>27</S100FC:value>
 					<S100FC:value>44</S100FC:value>
+					<S100FC:value>50</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
