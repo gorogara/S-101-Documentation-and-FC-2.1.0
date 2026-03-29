@@ -6942,6 +6942,23 @@
 			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
+			<S100FC:name>Datum Separation Value</S100FC:name>
+			<S100FC:definition>The numerical difference in elevation or position between two distinct reference surfaces at a specific geographic location.</S100FC:definition>
+			<S100FC:code>datumSeparationValue</S100FC:code>
+			<S100FC:valueType>real</S100FC:valueType>
+			<S100FC:uom>
+				<S100Base:name>metre</S100Base:name>
+				<S100Base:symbol>m</S100Base:symbol>
+			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>500</S100Base:upperBound>
+					<S100Base:closure>gtLeInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>			
+		</S100FC:S100_FC_SimpleAttribute>		
+		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Day of Week</S100FC:name>
 			<S100FC:definition>Any one of seven days in a week.</S100FC:definition>
 			<S100FC:code>dayOfWeek</S100FC:code>
