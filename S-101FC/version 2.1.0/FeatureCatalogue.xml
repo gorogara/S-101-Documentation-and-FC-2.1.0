@@ -8722,6 +8722,16 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>integer</S100FC:valueType>
+			<S100FC:uom>
+				<S100Base:name>metre</S100Base:name>
+				<S100Base:symbol>m</S100Base:symbol>
+			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:closure>gtSemiInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Measurement Distance Maximum</S100FC:name>
@@ -8774,6 +8784,7 @@
 			<S100FC:valueType>text</S100FC:valueType>
 			<S100FC:constraints>
 				<S100CD:stringLength>9</S100CD:stringLength>
+				<S100CD:textPattern>^\d{9}$</S100CD:textPattern>
 			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
@@ -12519,6 +12530,14 @@
 				<S100Base:name>metre</S100Base:name>
 				<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>30</S100Base:upperBound>
+					<S100Base:closure>gtLeInterval</S100Base:closure>
+				</S100CD:range>
+				<S100CD:precision>1</S100CD:precision>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Optimum Display Scale</S100FC:name>
