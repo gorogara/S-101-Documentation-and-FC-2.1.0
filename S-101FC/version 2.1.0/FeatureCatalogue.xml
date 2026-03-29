@@ -4888,7 +4888,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Dredging</S100FC:label>
+					<S100FC:label>Dredging Signal Station</S100FC:label>
 					<S100FC:definition>A signal station indicating when dredging is in progress.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
