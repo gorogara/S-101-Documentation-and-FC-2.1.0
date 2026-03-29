@@ -10718,7 +10718,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Mechanically Swept Survey</S100FC:label>
-					<S100FC:definition>Swept areas where the clearance depth is accurately known but the actual seabed depth is not accurately known.</S100FC:definition>
+					<S100FC:definition>High confidence depth (or swept) areas where the clearance depth is accurately known but the actual seabed depth is not accurately known.</S100FC:definition>
 					<S100FC:code>13</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1281</S100FC:sourceIdentifier>
