@@ -5493,7 +5493,7 @@
 			<S100FC:valueType>enumeration</S100FC:valueType>
 			<S100FC:listedValues>
 				<S100FC:listedValue>
-					<S100FC:label>Firing Danger Mark</S100FC:label>
+					<S100FC:label>Firing Danger Area Mark</S100FC:label>
 					<S100FC:definition>A mark used to indicate a firing danger area, usually at sea.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
