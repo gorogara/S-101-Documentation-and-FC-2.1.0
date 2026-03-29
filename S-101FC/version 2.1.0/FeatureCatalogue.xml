@@ -8850,6 +8850,11 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
+					<S100FC:label>Painted</S100FC:label>
+					<S100FC:definition>The application of paint to some other construction or natural feature.</S100FC:definition>
+					<S100FC:code>9</S100FC:code>
+				</S100FC:listedValue>				
+				<S100FC:listedValue>
 					<S100FC:label>Latticed</S100FC:label>
 					<S100FC:definition>A structure of crossed wooden or metal strips usually arranged to form a diagonal pattern of open spaces between the strips.</S100FC:definition>
 					<S100FC:code>11</S100FC:code>
