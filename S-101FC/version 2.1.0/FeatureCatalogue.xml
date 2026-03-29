@@ -9283,6 +9283,9 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>text</S100FC:valueType>
+			<S100FC:constraints>
+				<S100CD:textPattern>^\d{3}.{4}[A-Z0-9_]{1,10}\.TIF$</S100CD:textPattern>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Pilot Movement</S100FC:name>
