@@ -10787,7 +10787,7 @@
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Swept Date</S100FC:name>
-			<S100FC:definition>The date that the area was swept by a survey.</S100FC:definition>
+			<S100FC:definition>The date that the area was swept by a high confidence depth survey.</S100FC:definition>
 			<S100FC:code>sweptDate</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>172</S100FC:sourceIdentifier>
