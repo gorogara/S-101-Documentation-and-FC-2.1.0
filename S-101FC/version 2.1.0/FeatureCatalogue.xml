@@ -7388,6 +7388,13 @@
 				<S100Base:name>Degree</S100Base:name>
 				<S100Base:symbol>°</S100Base:symbol>
 			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:upperBound>360</S100Base:upperBound>
+					<S100Base:closure>geLtInterval</S100Base:closure>
+				</S100CD:range>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Flare Stack</S100FC:name>
