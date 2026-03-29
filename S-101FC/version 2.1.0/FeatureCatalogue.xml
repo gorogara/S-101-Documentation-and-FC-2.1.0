@@ -6964,6 +6964,7 @@
 					<S100Base:upperBound>500</S100Base:upperBound>
 					<S100Base:closure>gtLeInterval</S100Base:closure>
 				</S100CD:range>
+				<S100CD:precision>1</S100CD:precision>
 			</S100FC:constraints>			
 		</S100FC:S100_FC_SimpleAttribute>		
 		<S100FC:S100_FC_SimpleAttribute>
