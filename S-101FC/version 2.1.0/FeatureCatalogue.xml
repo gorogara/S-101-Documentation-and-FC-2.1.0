@@ -6034,7 +6034,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Wave Recorder</S100FC:label>
-					<S100FC:definition>A surface following buoy used to measure wave activity.</S100FC:definition>
+					<S100FC:definition>A surface following buoy or fixed device used to measure wave activity.</S100FC:definition>
 					<S100FC:code>63</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>743</S100FC:sourceIdentifier>
