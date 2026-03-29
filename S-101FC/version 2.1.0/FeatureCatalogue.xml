@@ -8853,6 +8853,10 @@
 					<S100FC:label>Painted</S100FC:label>
 					<S100FC:definition>The application of paint to some other construction or natural feature.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
+					<S100FC:definitionReference>
+						<S100FC:sourceIdentifier>1317</S100FC:sourceIdentifier>
+						<S100FC:definitionSource ref="IHOREG" />
+					</S100FC:definitionReference>
 				</S100FC:listedValue>				
 				<S100FC:listedValue>
 					<S100FC:label>Latticed</S100FC:label>
@@ -11962,6 +11966,11 @@
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
+				<S100FC:listedValue>
+					<S100FC:label>National Low Water Datum</S100FC:label>
+					<S100FC:definition>A low water datum defined by a National authority, from which levels, clearances and tidal heights are measured by this authority.</S100FC:definition>
+					<S100FC:code>50</S100FC:code>
+				</S100FC:listedValue>				
 			</S100FC:listedValues>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
