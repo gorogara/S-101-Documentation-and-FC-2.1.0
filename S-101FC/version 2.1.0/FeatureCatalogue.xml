@@ -8034,6 +8034,13 @@
 				<S100Base:name>metre</S100Base:name>
 				<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
+			<S100FC:constraints>
+				<S100CD:range>
+					<S100Base:lowerBound>0</S100Base:lowerBound>
+					<S100Base:closure>gtSemiInterval</S100Base:closure>
+				</S100CD:range>
+				<S100CD:precision>1</S100CD:precision>
+			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Ice Factor</S100FC:name>
