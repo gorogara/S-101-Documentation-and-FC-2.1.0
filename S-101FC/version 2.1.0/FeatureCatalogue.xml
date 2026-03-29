@@ -15170,6 +15170,7 @@
 				<S100FC:featureType ref="HarbourAreaAdministrative" />
 				<S100FC:featureType ref="HarbourFacility" />
 				<S100FC:featureType ref="Helipad" />
+				<S100FC:featureType ref="HighConfidenceDepthArea" />				
 				<S100FC:featureType ref="Hulk" />
 				<S100FC:featureType ref="IceArea" />
 				<S100FC:featureType ref="InformationArea" />
@@ -30435,6 +30436,7 @@
 				<S100FC:featureType ref="CautionArea" />
 				<S100FC:featureType ref="Daymark" />
 				<S100FC:featureType ref="DredgedArea" />
+				<S100FC:featureType ref="HighConfidenceDepthArea" />
 				<S100FC:featureType ref="IsolatedDangerBeacon" />
 				<S100FC:featureType ref="IsolatedDangerBuoy" />
 				<S100FC:featureType ref="LateralBeacon" />
@@ -44603,6 +44605,7 @@
 				<S100FC:featureType ref="HarbourAreaAdministrative" />
 				<S100FC:featureType ref="HarbourFacility" />
 				<S100FC:featureType ref="Helipad" />
+				<S100FC:featureType ref="HighConfidenceDepthArea" />				
 				<S100FC:featureType ref="Hulk" />
 				<S100FC:featureType ref="IceArea" />
 				<S100FC:featureType ref="InformationArea" />
