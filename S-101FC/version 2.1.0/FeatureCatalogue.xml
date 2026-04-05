@@ -21294,6 +21294,7 @@
 				<S100FC:featureType ref="Retroreflector" />
 				<S100FC:featureType ref="SignalStationTraffic" />
 				<S100FC:featureType ref="SignalStationWarning" />
+				<S100FC:featureType ref="LightAirObstruction" />
 				<S100FC:featureType ref="LightSectored" />
 			</S100FC:featureBinding>
 			<S100FC:featureBinding roleType="aggregation">
@@ -38355,6 +38356,7 @@
 				<S100FC:featureType ref="Landmark" />
 				<S100FC:featureType ref="OffshorePlatform" />
 				<S100FC:featureType ref="PylonBridgeSupport" />
+				<S100FC:featureType ref="SiloTank" />
 				<S100FC:featureType ref="SpanFixed" />
 				<S100FC:featureType ref="SpanOpening" />
 				<S100FC:featureType ref="WindTurbine" />
