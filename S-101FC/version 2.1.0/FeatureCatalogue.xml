@@ -9731,7 +9731,7 @@
 				</S100FC:listedValue>
 				<S100FC:listedValue>
 					<S100FC:label>Maintained Depth</S100FC:label>
-					<S100FC:definition>The depth at which a channel is kept by human influence, usually by dredging.</S100FC:definition>
+					<S100FC:definition>The depth at which a defined navigation and controlled depth area is kept by human influence, usually by dredging.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
 						<S100FC:sourceIdentifier>1009</S100FC:sourceIdentifier>
