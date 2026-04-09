@@ -4919,7 +4919,7 @@
 			<S100FC:valueType>enumeration</S100FC:valueType>
 			<S100FC:listedValues>
 				<S100FC:listedValue>
-					<S100FC:label>Danger</S100FC:label>
+					<S100FC:label>Danger Signal</S100FC:label>
 					<S100FC:definition>A signal or message warning of the presence of a danger to navigation.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
@@ -4928,7 +4928,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Maritime Obstruction</S100FC:label>
+					<S100FC:label>Maritime Obstruction Signal</S100FC:label>
 					<S100FC:definition>A signal or message warning of the presence of a maritime obstruction.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
@@ -4937,7 +4937,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Cable</S100FC:label>
+					<S100FC:label>Cable Signal</S100FC:label>
 					<S100FC:definition>A signal or message warning of the presence of a cable.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
@@ -4946,7 +4946,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Military Practice</S100FC:label>
+					<S100FC:label>Military Practice Signal</S100FC:label>
 					<S100FC:definition>A signal or message warning of activity in a military practice area.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
@@ -4955,7 +4955,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Distress</S100FC:label>
+					<S100FC:label>Distress Signal Station</S100FC:label>
 					<S100FC:definition>A station that may receive or transmit distress signals.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
@@ -4964,7 +4964,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Weather</S100FC:label>
+					<S100FC:label>Weather Signal</S100FC:label>
 					<S100FC:definition>A visual signal displayed to indicate a weather forecast.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
@@ -4973,7 +4973,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Storm</S100FC:label>
+					<S100FC:label>Storm Signal</S100FC:label>
 					<S100FC:definition>A signal or message conveying information about storm conditions.</S100FC:definition>
 					<S100FC:code>7</S100FC:code>
 					<S100FC:definitionReference>
@@ -4982,7 +4982,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Ice Warning</S100FC:label>
+					<S100FC:label>Ice Warning Signal</S100FC:label>
 					<S100FC:definition>A signal or message conveying information about ice conditions.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
@@ -4991,7 +4991,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Time</S100FC:label>
+					<S100FC:label>Time Signal</S100FC:label>
 					<S100FC:definition>An accurate signal marking a specified time or time interval. It is used primarily for determining errors of timepieces. Such signals are usually sent from an observatory by radio, but visual signals are used at some ports.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
@@ -5000,7 +5000,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Tide</S100FC:label>
+					<S100FC:label>Tide Signal</S100FC:label>
 					<S100FC:definition>A signal or message conveying information on tidal conditions in the area in question.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
@@ -5009,7 +5009,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Tidal Stream</S100FC:label>
+					<S100FC:label>Tidal Current Signal</S100FC:label>
 					<S100FC:definition>A signal or message conveying information on condition of tidal currents in the area in question.</S100FC:definition>
 					<S100FC:code>11</S100FC:code>
 					<S100FC:definitionReference>
@@ -5036,7 +5036,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Diving</S100FC:label>
+					<S100FC:label>Diving Signal</S100FC:label>
 					<S100FC:definition>A signal or message warning of diving activity.</S100FC:definition>
 					<S100FC:code>14</S100FC:code>
 					<S100FC:definitionReference>
