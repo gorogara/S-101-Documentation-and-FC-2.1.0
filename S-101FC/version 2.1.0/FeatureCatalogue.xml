@@ -4816,7 +4816,7 @@
 			<S100FC:valueType>enumeration</S100FC:valueType>
 			<S100FC:listedValues>
 				<S100FC:listedValue>
-					<S100FC:label>Port Control</S100FC:label>
+					<S100FC:label>Port Control Station</S100FC:label>
 					<S100FC:definition>A signal station for the control of vessels within a port.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
@@ -4825,7 +4825,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Port Entry and Departure</S100FC:label>
+					<S100FC:label>Port Entry and Departure Station</S100FC:label>
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a port.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
@@ -4834,7 +4834,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>International Port Traffic</S100FC:label>
+					<S100FC:label>International Port Traffic Station</S100FC:label>
 					<S100FC:definition>A signal station displaying International Port Traffic signals.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
@@ -4852,7 +4852,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Dock</S100FC:label>
+					<S100FC:label>Dock Signal Station</S100FC:label>
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a dock.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
@@ -4861,7 +4861,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Lock</S100FC:label>
+					<S100FC:label>Lock Signal Station</S100FC:label>
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a lock.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
@@ -4879,7 +4879,7 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Bridge Passage</S100FC:label>
+					<S100FC:label>Bridge Passage Station</S100FC:label>
 					<S100FC:definition>A signal station for the control of vessels wishing to pass under a bridge.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
