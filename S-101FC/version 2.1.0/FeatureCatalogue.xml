@@ -13916,6 +13916,13 @@
 					<S100Base:lower>1</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
+				<S100FC:attribute ref="orientationValue" />
+			</S100FC:subAttributeBinding>
+			<S100FC:subAttributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>1</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
 				<S100FC:attribute ref="speedMaximum" />
 			</S100FC:subAttributeBinding>
 			<S100FC:subAttributeBinding sequential="false">
