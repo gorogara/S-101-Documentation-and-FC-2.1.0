@@ -13905,7 +13905,7 @@
 			<S100FC:definition>A measurement of the direction and speed of a tidal stream at a given time relative to the reference tide.</S100FC:definition>
 			<S100FC:code>tidalStreamValue</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>256</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1375</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
@@ -14267,7 +14267,7 @@
 			<S100FC:definition>The maximum allowed rate of travel for a vessel in an area.</S100FC:definition>
 			<S100FC:code>vesselSpeedLimit</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>266</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1132</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
@@ -17307,7 +17307,7 @@
 			<S100FC:code>SlopeTopline</S100FC:code>
 			<S100FC:alias>SLOTOP</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>209</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>790</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -17667,7 +17667,7 @@
 			<S100FC:code>Building</S100FC:code>
 			<S100FC:alias>BUISGL</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>211</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>791</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -19022,7 +19022,7 @@
 			<S100FC:code>Conveyor</S100FC:code>
 			<S100FC:alias>CONVYR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>218</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>792</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -19327,7 +19327,7 @@
 			<S100FC:code>CableOverhead</S100FC:code>
 			<S100FC:alias>CBLOHD</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>219</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>793</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -19535,7 +19535,7 @@
 			<S100FC:code>PipelineOverhead</S100FC:code>
 			<S100FC:alias>PIPOHD</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>220</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>794</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -20654,7 +20654,7 @@
 			<S100FC:code>Landmark</S100FC:code>
 			<S100FC:alias>LNDMRK</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>226</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>796</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -21042,7 +21042,7 @@
 			<S100FC:code>SiloTank</S100FC:code>
 			<S100FC:alias>SILTNK</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>227</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>797</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -21356,7 +21356,7 @@
 			<S100FC:code>WindTurbine</S100FC:code>
 			<S100FC:alias>LNDMRK (CATLMK = 19)</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>228</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>798</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="true">
@@ -25327,7 +25327,7 @@
 			<S100FC:code>FloatingDock</S100FC:code>
 			<S100FC:alias>FLODOC</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>246</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>788</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="true">
@@ -26399,7 +26399,7 @@
 			<S100FC:code>TidalStreamFloodEbb</S100FC:code>
 			<S100FC:alias>TS_FEB</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>254</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>803</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -26509,7 +26509,7 @@
 			<S100FC:alias>CURENT</S100FC:alias>
 			<S100FC:alias>Non-Tidal Current</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>255</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>804</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -27917,7 +27917,7 @@
 			<S100FC:code>UnderwaterAwashRock</S100FC:code>
 			<S100FC:alias>UWTROC</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>723</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>785</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -28107,7 +28107,7 @@
 			<S100FC:code>Wreck</S100FC:code>
 			<S100FC:alias>WRECKS</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>722</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>786</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -28358,7 +28358,7 @@
 			<S100FC:code>Obstruction</S100FC:code>
 			<S100FC:alias>OBSTRN</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>724</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>787</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -29796,7 +29796,7 @@
 			<S100FC:code>PipelineSubmarineOnLand</S100FC:code>
 			<S100FC:alias>PIPSOL</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>728</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>799</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -34181,7 +34181,7 @@
 			<S100FC:code>AnchorageArea</S100FC:code>
 			<S100FC:alias>ACHARE</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>741</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>808</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -37289,7 +37289,7 @@
 			<S100FC:code>LightAllAround</S100FC:code>
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>693</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>800</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -37642,7 +37642,7 @@
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:alias>Sector Light</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>694</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>801</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -38162,7 +38162,7 @@
 			<S100FC:code>LightAirObstruction</S100FC:code>
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>696</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>802</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -40174,7 +40174,7 @@
 			<S100FC:definition>A buoy secured to the bottom by permanent moorings with means for mooring a vessel by use of its anchor chain or mooring lines.</S100FC:definition>
 			<S100FC:code>MooringBuoy</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>660</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>805</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
