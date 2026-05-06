@@ -2446,15 +2446,6 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Bearing Light</S100FC:label>
-					<S100FC:definition>A light which enables its approximate bearing to be obtained without the use of a compass.</S100FC:definition>
-					<S100FC:code>18</S100FC:code>
-					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>289</S100FC:sourceIdentifier>
-						<S100FC:definitionSource ref="IHOREG" />
-					</S100FC:definitionReference>
-				</S100FC:listedValue>
-				<S100FC:listedValue>
 					<S100FC:label>Horizontally Disposed</S100FC:label>
 					<S100FC:definition>A group of lights of identical character and almost identical position, that are disposed horizontally.</S100FC:definition>
 					<S100FC:code>19</S100FC:code>
@@ -36745,7 +36736,6 @@
 					<S100FC:value>14</S100FC:value>
 					<S100FC:value>15</S100FC:value>
 					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
 					<S100FC:value>19</S100FC:value>
 					<S100FC:value>20</S100FC:value>
 				</S100FC:permittedValues>
@@ -37067,7 +37057,6 @@
 					<S100FC:value>14</S100FC:value>
 					<S100FC:value>15</S100FC:value>
 					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
 					<S100FC:value>19</S100FC:value>
 					<S100FC:value>20</S100FC:value>
 				</S100FC:permittedValues>
