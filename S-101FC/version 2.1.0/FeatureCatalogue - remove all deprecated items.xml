@@ -552,15 +552,6 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Anchorage for Periods Up To 24 Hours</S100FC:label>
-					<S100FC:definition>An area in which vessels anchor or may anchor for periods of up to 24 hours.</S100FC:definition>
-					<S100FC:code>9</S100FC:code>
-					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>37</S100FC:sourceIdentifier>
-						<S100FC:definitionSource ref="IHOREG" />
-					</S100FC:definitionReference>
-				</S100FC:listedValue>
-				<S100FC:listedValue>
 					<S100FC:label>Anchorage for a Limited Period of Time</S100FC:label>
 					<S100FC:definition>An area in which vessels may anchor for a period of time not to exceed a specific limit.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
@@ -33741,7 +33732,6 @@
 					<S100FC:value>5</S100FC:value>
 					<S100FC:value>6</S100FC:value>
 					<S100FC:value>7</S100FC:value>
-					<S100FC:value>9</S100FC:value>
 					<S100FC:value>10</S100FC:value>
 					<S100FC:value>14</S100FC:value>
 					<S100FC:value>15</S100FC:value>
@@ -34103,7 +34093,6 @@
 					<S100FC:value>5</S100FC:value>
 					<S100FC:value>6</S100FC:value>
 					<S100FC:value>7</S100FC:value>
-					<S100FC:value>9</S100FC:value>
 					<S100FC:value>10</S100FC:value>
 					<S100FC:value>14</S100FC:value>
 				</S100FC:permittedValues>
