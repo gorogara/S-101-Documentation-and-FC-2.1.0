@@ -11891,7 +11891,7 @@
 			<S100FC:constraints>
 				<S100CD:range>
 					<S100Base:lowerBound>-1200</S100Base:lowerBound>
-					<S100Base:upperBound>-1200</S100Base:upperBound>
+					<S100Base:upperBound>1200</S100Base:upperBound>
 					<S100Base:closure>closedInterval</S100Base:closure>
 				</S100CD:range>
 				<S100CD:precision>1</S100CD:precision>
