@@ -27489,6 +27489,10 @@
 			<S100FC:definition>A discontinuity between charted bathymetry resulting from time differences between hydrographic surveys in changeable areas or adjoining areas having significant differences in the quality of bathymetric data.</S100FC:definition>
 			<S100FC:code>DepthDiscontinuity</S100FC:code>
 			<S100FC:alias>UNSARE</S100FC:alias>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>806</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
