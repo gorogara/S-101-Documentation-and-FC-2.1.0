@@ -27173,6 +27173,10 @@
 			<S100FC:definition>An area that has been determined to a high degree of confidence to be clear of navigational dangers to a specified depth.</S100FC:definition>
 			<S100FC:code>HighConfidenceDepthArea</S100FC:code>
 			<S100FC:alias>SWPARE</S100FC:alias>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>807</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>1</S100Base:lower>
