@@ -3883,15 +3883,6 @@
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
 				<S100FC:listedValue>
-					<S100FC:label>Dredging Area</S100FC:label>
-					<S100FC:definition>An area where dredging is taking place.</S100FC:definition>
-					<S100FC:code>21</S100FC:code>
-					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>410</S100FC:sourceIdentifier>
-						<S100FC:definitionSource ref="IHOREG" />
-					</S100FC:definitionReference>
-				</S100FC:listedValue>
-				<S100FC:listedValue>
 					<S100FC:label>Fish Sanctuary</S100FC:label>
 					<S100FC:definition>A place where fish (including shellfish and crustaceans) are protected.</S100FC:definition>
 					<S100FC:code>22</S100FC:code>
@@ -36560,7 +36551,6 @@
 					<S100FC:value>18</S100FC:value>
 					<S100FC:value>19</S100FC:value>
 					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
 					<S100FC:value>22</S100FC:value>
 					<S100FC:value>23</S100FC:value>
 					<S100FC:value>24</S100FC:value>
