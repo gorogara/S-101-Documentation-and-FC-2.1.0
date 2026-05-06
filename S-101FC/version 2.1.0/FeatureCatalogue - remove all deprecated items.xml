@@ -8858,16 +8858,6 @@
 			<S100FC:valueType>boolean</S100FC:valueType>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
-			<S100FC:name>Multiplicity Known</S100FC:name>
-			<S100FC:definition>The number of features of identical character that exist as a co-located group is or is not known.</S100FC:definition>
-			<S100FC:code>multiplicityKnown</S100FC:code>
-			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>133</S100FC:sourceIdentifier>
-				<S100FC:definitionSource ref="IHOREG" />
-			</S100FC:definitionReference>
-			<S100FC:valueType>boolean</S100FC:valueType>
-		</S100FC:S100_FC_SimpleAttribute>
-		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Name</S100FC:name>
 			<S100FC:definition>The individual name of a feature.</S100FC:definition>
 			<S100FC:code>name</S100FC:code>
