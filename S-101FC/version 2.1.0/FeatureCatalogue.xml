@@ -10524,10 +10524,6 @@
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
-			<S100FC:uom>
-				<S100Base:name>Knot</S100Base:name>
-				<S100Base:symbol>kt</S100Base:symbol>
-			</S100FC:uom>
 			<S100FC:constraints>
 				<S100CD:range>
 					<S100Base:lowerBound>0</S100Base:lowerBound>
