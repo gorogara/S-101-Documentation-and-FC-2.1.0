@@ -13256,29 +13256,6 @@
 			</S100FC:subAttributeBinding>
 		</S100FC:S100_FC_ComplexAttribute>
 		<S100FC:S100_FC_ComplexAttribute>
-			<S100FC:name>Multiplicity of Features</S100FC:name>
-			<S100FC:definition>The number of features of identical character that exist as a co-located group.</S100FC:definition>
-			<S100FC:code>multiplicityOfFeatures</S100FC:code>
-			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>242</S100FC:sourceIdentifier>
-				<S100FC:definitionSource ref="IHOREG" />
-			</S100FC:definitionReference>
-			<S100FC:subAttributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>1</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityKnown" />
-			</S100FC:subAttributeBinding>
-			<S100FC:subAttributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="numberOfFeatures" />
-			</S100FC:subAttributeBinding>
-		</S100FC:S100_FC_ComplexAttribute>
-		<S100FC:S100_FC_ComplexAttribute>
 			<S100FC:name>Online Resource</S100FC:name>
 			<S100FC:definition>Information about online sources from which a resource or data can be obtained.</S100FC:definition>
 			<S100FC:code>onlineResource</S100FC:code>
@@ -17818,13 +17795,6 @@
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />
 				</S100FC:multiplicity>
 				<S100FC:permittedValues>
@@ -19126,13 +19096,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="numberOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -19385,13 +19348,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="numberOfFeatures" />
 			</S100FC:attributeBinding>			
 			<S100FC:attributeBinding sequential="false">
@@ -19581,13 +19537,6 @@
 				</S100FC:multiplicity>
 				<S100FC:attributeVisibility>privateVisibility</S100FC:attributeVisibility>
 				<S100FC:attribute ref="interoperabilityIdentifier" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -19862,13 +19811,6 @@
 				</S100FC:multiplicity>
 				<S100FC:attributeVisibility>privateVisibility</S100FC:attributeVisibility>
 				<S100FC:attribute ref="interoperabilityIdentifier" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -20839,13 +20781,6 @@
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />
 				</S100FC:multiplicity>
 				<S100FC:permittedValues>
@@ -21151,13 +21086,6 @@
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="true" infinite="true" />
 				</S100FC:multiplicity>
 				<S100FC:permittedValues>
@@ -21441,13 +21369,6 @@
 				</S100FC:multiplicity>
 				<S100FC:attributeVisibility>privateVisibility</S100FC:attributeVisibility>
 				<S100FC:attribute ref="interoperabilityIdentifier" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -29787,13 +29708,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="numberOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -37250,13 +37164,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="numberOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -37554,13 +37461,6 @@
 					<S100FC:value>11</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="marksNavigationalSystemOf" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -38081,13 +37981,6 @@
 					<S100FC:value>9</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="lightVisibility" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:attribute ref="multiplicityOfFeatures" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
