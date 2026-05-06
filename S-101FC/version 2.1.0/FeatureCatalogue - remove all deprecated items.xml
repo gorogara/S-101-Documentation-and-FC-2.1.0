@@ -18689,30 +18689,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="scaleMinimum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -18847,30 +18823,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalClearanceOpen" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -19141,30 +19093,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalLength" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -19382,30 +19310,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
 					<S100FC:value>1</S100FC:value>
 					<S100FC:value>2</S100FC:value>
 					<S100FC:value>3</S100FC:value>
@@ -19580,30 +19484,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalClearanceFixed" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -20493,30 +20373,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalClearanceFixed" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -21413,30 +21269,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalClearanceFixed" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -23229,30 +23061,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalLength" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -23881,30 +23689,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalUncertainty" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -24311,30 +24095,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalClearanceFixed" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -37193,30 +36953,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="verticalLength" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -37489,30 +37225,6 @@
 					<S100Base:lower>0</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
 				<S100FC:attribute ref="scaleMinimum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
@@ -37726,30 +37438,6 @@
 					<S100FC:value>17</S100FC:value>
 				</S100FC:permittedValues>
 				<S100FC:attribute ref="status" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
@@ -37999,30 +37687,6 @@
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
 				<S100FC:attribute ref="valueOfNominalRange" />
-			</S100FC:attributeBinding>
-			<S100FC:attributeBinding sequential="false">
-				<S100FC:multiplicity>
-					<S100Base:lower>0</S100Base:lower>
-					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
-				</S100FC:multiplicity>
-				<S100FC:permittedValues>
-					<S100FC:value>3</S100FC:value>
-					<S100FC:value>13</S100FC:value>
-					<S100FC:value>16</S100FC:value>
-					<S100FC:value>17</S100FC:value>
-					<S100FC:value>18</S100FC:value>
-					<S100FC:value>19</S100FC:value>
-					<S100FC:value>20</S100FC:value>
-					<S100FC:value>21</S100FC:value>
-					<S100FC:value>24</S100FC:value>
-					<S100FC:value>25</S100FC:value>
-					<S100FC:value>26</S100FC:value>
-					<S100FC:value>28</S100FC:value>
-					<S100FC:value>29</S100FC:value>
-					<S100FC:value>30</S100FC:value>
-					<S100FC:value>44</S100FC:value>
-				</S100FC:permittedValues>
-				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
