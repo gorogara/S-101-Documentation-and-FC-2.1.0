@@ -2891,6 +2891,10 @@
 					<S100FC:label>Decommissioned Platform Jacket</S100FC:label>
 					<S100FC:definition>The jacket of a decommissioned oil or gas platform in deep water, which can extend a significant distance above the seabed and may be a hazard to vessels performing sub-surface operations.</S100FC:definition>
 					<S100FC:code>24</S100FC:code>
+					<S100FC:definitionReference>
+						<S100FC:sourceIdentifier>3658</S100FC:sourceIdentifier>
+						<S100FC:definitionSource ref="IHOREG" />
+					</S100FC:definitionReference>
 				</S100FC:listedValue>				
 			</S100FC:listedValues>
 		</S100FC:S100_FC_SimpleAttribute>
