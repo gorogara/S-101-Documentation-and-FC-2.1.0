@@ -36371,6 +36371,10 @@
 			<S100FC:name>Collision Regulations</S100FC:name>
 			<S100FC:definition>Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs). The indication of the demarcation between inland navigation rules and international navigation rules.</S100FC:definition>
 			<S100FC:code>CollisionRegulations</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>821</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
