@@ -4833,7 +4833,7 @@
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a lock.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>558</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3712</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
