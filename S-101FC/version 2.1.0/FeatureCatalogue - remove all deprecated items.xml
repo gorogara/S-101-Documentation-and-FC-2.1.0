@@ -4797,7 +4797,7 @@
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a port.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>554</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3714</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4806,7 +4806,7 @@
 					<S100FC:definition>A signal station displaying International Port Traffic signals.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>555</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3715</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4851,7 +4851,7 @@
 					<S100FC:definition>A signal station for the control of vessels wishing to pass under a bridge.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>560</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3716</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4860,7 +4860,7 @@
 					<S100FC:definition>A signal station indicating when dredging is in progress.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>561</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3717</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
