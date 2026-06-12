@@ -4945,7 +4945,7 @@
 					<S100FC:definition>A signal or message conveying information about storm conditions.</S100FC:definition>
 					<S100FC:code>7</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>569</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3707</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
