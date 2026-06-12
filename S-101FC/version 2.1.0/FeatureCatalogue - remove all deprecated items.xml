@@ -10968,7 +10968,7 @@
 			<S100FC:definition>Update number of the ENC being referenced.</S100FC:definition>
 			<S100FC:code>updateNumber</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>1230</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1254</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>integer</S100FC:valueType>
@@ -11032,7 +11032,7 @@
 			<S100FC:definition>The date that the area was swept by a high confidence depth survey.</S100FC:definition>
 			<S100FC:code>sweptDate</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>172</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1409</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>S100_TruncatedDate</S100FC:valueType>
