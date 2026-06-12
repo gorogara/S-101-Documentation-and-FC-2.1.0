@@ -6921,6 +6921,10 @@
 			<S100FC:name>Datum Separation Value</S100FC:name>
 			<S100FC:definition>The numerical difference in elevation or position between two distinct reference surfaces at a specific geographic location.</S100FC:definition>
 			<S100FC:code>datumSeparationValue</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>1401</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
 			<S100FC:uom>
 				<S100Base:name>metre</S100Base:name>
