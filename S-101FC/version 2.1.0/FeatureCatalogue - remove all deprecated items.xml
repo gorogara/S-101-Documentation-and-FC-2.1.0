@@ -4972,7 +4972,7 @@
 					<S100FC:definition>A signal or message conveying information on tidal conditions in the area in question.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>572</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3709</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
