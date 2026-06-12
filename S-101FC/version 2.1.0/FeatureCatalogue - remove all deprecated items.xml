@@ -12830,6 +12830,10 @@
 			<S100FC:name>Datum Difference Information</S100FC:name>
 			<S100FC:definition>The complex attribute provides the information related to the datum used for vertical clearances and heights, and the numeric difference between this datum and the sounding datum, at a referenced location.</S100FC:definition>
 			<S100FC:code>datumDifferenceInformation</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>1402</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
