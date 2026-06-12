@@ -5008,7 +5008,7 @@
 					<S100FC:definition>A signal or message warning of diving activity.</S100FC:definition>
 					<S100FC:code>14</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>576</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3710</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
