@@ -4824,7 +4824,7 @@
 					<S100FC:definition>A signal station for the control of vessels entering or leaving a dock.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>557</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3711</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
