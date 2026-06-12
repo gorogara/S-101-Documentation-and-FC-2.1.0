@@ -15157,7 +15157,7 @@
 			<S100FC:code>SoundingDatum</S100FC:code>
 			<S100FC:alias>M_SDAT</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>191</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>817</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -36732,7 +36732,7 @@
 			<S100FC:code>LightAllAround</S100FC:code>
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>800</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>816</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -37053,7 +37053,7 @@
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:alias>Sector Light</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>801</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>818</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -37302,7 +37302,7 @@
 			<S100FC:definition>A fog detector light is a light used to automatically determine conditions of visibility which warrant the turning on or off of a sound signal.</S100FC:definition>
 			<S100FC:code>LightFogDetector</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>695</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>819</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
@@ -37517,7 +37517,7 @@
 			<S100FC:code>LightAirObstruction</S100FC:code>
 			<S100FC:alias>LIGHTS</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>802</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>820</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:attributeBinding sequential="false">
