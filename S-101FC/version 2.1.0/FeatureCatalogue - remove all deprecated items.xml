@@ -10588,7 +10588,7 @@
 			<S100FC:definition>The name of the reference tide station with reference to water level for tidal level and tidal stream panel observations.</S100FC:definition>
 			<S100FC:code>stationName</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>1196</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1407</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>text</S100FC:valueType>
@@ -14048,7 +14048,7 @@
 			<S100FC:code>verticalClearanceClosed</S100FC:code>
 			<S100FC:alias>VERCCL</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>262</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1403</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
@@ -14079,7 +14079,7 @@
 			<S100FC:code>verticalClearanceFixed</S100FC:code>
 			<S100FC:alias>VERCLR</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>263</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1404</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
@@ -14110,7 +14110,7 @@
 			<S100FC:code>verticalClearanceOpen</S100FC:code>
 			<S100FC:alias>VERCOP</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>264</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1406</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
@@ -14148,7 +14148,7 @@
 			<S100FC:code>verticalClearanceSafe</S100FC:code>
 			<S100FC:alias>VERCSA</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>265</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1405</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
