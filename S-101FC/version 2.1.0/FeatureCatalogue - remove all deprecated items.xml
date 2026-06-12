@@ -4778,7 +4778,7 @@
 			<S100FC:code>categoryOfSignalStationTraffic</S100FC:code>
 			<S100FC:alias>CATSIT</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>1119</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1413</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>
@@ -4881,7 +4881,7 @@
 			<S100FC:code>categoryOfSignalStationWarning</S100FC:code>
 			<S100FC:alias>CATSIW</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>61</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1415</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>
@@ -6486,7 +6486,7 @@
 					<S100FC:definition>Positional Accuracy +/- 5 metres + 5% depth; Depth Accuracy 0.5 metre + 1% depth; Full area search undertaken. Significant seafloor features detected and depths measured; Controlled, systematic survey, high position and depth accuracy achieved using DGNSS positioning or a minimum three high quality lines of position (LOP) and a multibeam, channel or mechanical sweep system.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>1308</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3700</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -10957,7 +10957,7 @@
 					<S100FC:definition>High confidence depth (or swept) areas where the clearance depth is accurately known but the actual seabed depth is not accurately known.</S100FC:definition>
 					<S100FC:code>13</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>1281</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3706</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -12015,7 +12015,7 @@
 			<S100FC:alias>Datum for Sounding Reduction</S100FC:alias>
 			<S100FC:alias>Datum for Heights</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>996</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1408</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>
