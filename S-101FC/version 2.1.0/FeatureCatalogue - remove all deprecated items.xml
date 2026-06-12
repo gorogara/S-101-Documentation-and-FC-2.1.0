@@ -4788,7 +4788,7 @@
 					<S100FC:definition>A signal station for the control of vessels within a port.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>553</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3713</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
