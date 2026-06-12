@@ -9700,7 +9700,7 @@
 					<S100FC:definition>The depth at which a defined navigation and controlled depth area is kept by human influence, usually by dredging.</S100FC:definition>
 					<S100FC:code>10</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>1009</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3702</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
