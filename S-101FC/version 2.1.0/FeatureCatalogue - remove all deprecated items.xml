@@ -5465,7 +5465,7 @@
 					<S100FC:definition>A mark used to indicate a firing danger area, usually at sea.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>683</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3703</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -6005,7 +6005,7 @@
 					<S100FC:definition>A surface following buoy or fixed device used to measure wave activity.</S100FC:definition>
 					<S100FC:code>63</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>743</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3704</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
