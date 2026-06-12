@@ -4891,7 +4891,7 @@
 					<S100FC:definition>A signal or message warning of the presence of a danger to navigation.</S100FC:definition>
 					<S100FC:code>1</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>563</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3718</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4900,7 +4900,7 @@
 					<S100FC:definition>A signal or message warning of the presence of a maritime obstruction.</S100FC:definition>
 					<S100FC:code>2</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>564</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3719</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4909,7 +4909,7 @@
 					<S100FC:definition>A signal or message warning of the presence of a cable.</S100FC:definition>
 					<S100FC:code>3</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>565</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3720</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4918,7 +4918,7 @@
 					<S100FC:definition>A signal or message warning of activity in a military practice area.</S100FC:definition>
 					<S100FC:code>4</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>566</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3721</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4927,7 +4927,7 @@
 					<S100FC:definition>A station that may receive or transmit distress signals.</S100FC:definition>
 					<S100FC:code>5</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>567</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3722</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4936,7 +4936,7 @@
 					<S100FC:definition>A visual signal displayed to indicate a weather forecast.</S100FC:definition>
 					<S100FC:code>6</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>568</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3651</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4954,7 +4954,7 @@
 					<S100FC:definition>A signal or message conveying information about ice conditions.</S100FC:definition>
 					<S100FC:code>8</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>570</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3723</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
@@ -4981,7 +4981,7 @@
 					<S100FC:definition>A signal or message conveying information on condition of tidal currents in the area in question.</S100FC:definition>
 					<S100FC:code>11</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>573</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3724</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
