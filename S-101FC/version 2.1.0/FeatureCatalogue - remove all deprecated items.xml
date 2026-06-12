@@ -4963,7 +4963,7 @@
 					<S100FC:definition>An accurate signal marking a specified time or time interval. It is used primarily for determining errors of timepieces. Such signals are usually sent from an observatory by radio, but visual signals are used at some ports.</S100FC:definition>
 					<S100FC:code>9</S100FC:code>
 					<S100FC:definitionReference>
-						<S100FC:sourceIdentifier>571</S100FC:sourceIdentifier>
+						<S100FC:sourceIdentifier>3708</S100FC:sourceIdentifier>
 						<S100FC:definitionSource ref="IHOREG" />
 					</S100FC:definitionReference>
 				</S100FC:listedValue>
