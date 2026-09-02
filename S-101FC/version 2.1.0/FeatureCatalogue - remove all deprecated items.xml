@@ -4,7 +4,7 @@
 	<S100FC:scope>Ocean, Coastal, Ports and Harbors. Excludes Inland waters.</S100FC:scope>
 	<S100FC:fieldOfApplication>Marine Navigation</S100FC:fieldOfApplication>
 	<S100FC:versionNumber>2.1.0</S100FC:versionNumber>
-	<S100FC:versionDate>2026-03-27</S100FC:versionDate>
+	<S100FC:versionDate>2026-09-02</S100FC:versionDate>
 	<S100FC:productId>S-101</S100FC:productId>
 	<S100FC:producer>
 		<S100CI:role>pointOfContact</S100CI:role>
