@@ -7424,6 +7424,10 @@
 			<S100FC:name>Drawing Index</S100FC:name>
 			<S100FC:definition>A numeric value used to indicate that datasets are intended to form a seamless presentation.</S100FC:definition>
 			<S100FC:code>drawingIndex</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>1417</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:valueType>integer</S100FC:valueType>
 			<S100FC:constraints>
 				<S100CD:range>
