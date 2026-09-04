@@ -8861,6 +8861,10 @@
 			<S100FC:name>Name Usage</S100FC:name>
 			<S100FC:definition>Classification of the type and display level of the name of a feature in an end-user system.</S100FC:definition>
 			<S100FC:code>nameUsage</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>1143</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>
 			<S100FC:listedValues>
 				<S100FC:listedValue>
