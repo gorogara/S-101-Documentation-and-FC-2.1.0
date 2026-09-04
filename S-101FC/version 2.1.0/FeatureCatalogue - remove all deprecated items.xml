@@ -33922,7 +33922,7 @@
 		</S100FC:S100_FC_FeatureType>
 		<S100FC:S100_FC_FeatureType isAbstract="false">
 			<S100FC:name>Mooring Area</S100FC:name>
-			<S100FC:definition>An area in which vessels may be secured to mooring buoys</S100FC:definition>
+			<S100FC:definition>An area in which vessels may be secured to mooring buoys.</S100FC:definition>
 			<S100FC:code>MooringArea</S100FC:code>
 			<S100FC:definitionReference>
 				<S100FC:sourceIdentifier>658</S100FC:sourceIdentifier>
