@@ -7123,7 +7123,7 @@
 			<S100FC:definition>A specified amount of a quantity, as of length, by comparison with which any other quantity of the same kind is measured or estimated.</S100FC:definition>
 			<S100FC:code>distanceUnitOfMeasurement</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>95</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1378</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:valueType>enumeration</S100FC:valueType>
