@@ -14296,71 +14296,127 @@
 			<S100FC:name>The Auxiliary Feature</S100FC:name>
 			<S100FC:definition>A pointer to incidental, secondary or supplementary features related to the referenced feature.</S100FC:definition>
 			<S100FC:code>theAuxiliaryFeature</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>2</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Cartographic Text</S100FC:name>
 			<S100FC:definition>A pointer to a specific cartographically positioned location for text.</S100FC:definition>
 			<S100FC:code>theCartographicText</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>3</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Collection</S100FC:name>
 			<S100FC:definition>A pointer to the aggregate in a whole-part relationship.</S100FC:definition>
 			<S100FC:code>theCollection</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>4</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Component</S100FC:name>
 			<S100FC:definition>A pointer to a part in a whole-part relationship.</S100FC:definition>
 			<S100FC:code>theComponent</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>5</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Equipment</S100FC:name>
 			<S100FC:definition>A pointer to the feature(s) supported by a structure feature.</S100FC:definition>
 			<S100FC:code>theEquipment</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>6</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Information</S100FC:name>
 			<S100FC:definition>A pointer to an object that provides more information about the referencing feature or information type.</S100FC:definition>
 			<S100FC:code>theInformation</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>7</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Position Provider</S100FC:name>
 			<S100FC:definition>A pointer to a specific feature(s).</S100FC:definition>
 			<S100FC:code>thePositionProvider</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>8</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Primary Feature</S100FC:name>
 			<S100FC:definition>A pointer to a feature to which incidental, secondary or supplementary features are related.</S100FC:definition>
 			<S100FC:code>thePrimaryFeature</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>9</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Quality Information</S100FC:name>
 			<S100FC:definition>A pointer to an information type providing spatial quality information.</S100FC:definition>
 			<S100FC:code>theQualityInformation</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>10</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Roofed Structure</S100FC:name>
 			<S100FC:definition>A pointer to a supported roofed structure.</S100FC:definition>
 			<S100FC:code>theRoofedStructure</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>11</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Structure</S100FC:name>
 			<S100FC:definition>A pointer to the feature that equipment feature(s) are supported by.</S100FC:definition>
 			<S100FC:code>theStructure</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>12</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Support</S100FC:name>
 			<S100FC:definition>A pointer to the feature(s) that support a structure.</S100FC:definition>
 			<S100FC:code>theSupport</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>13</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Update</S100FC:name>
 			<S100FC:definition>A pointer to a feature that describes changes made to a dataset.</S100FC:definition>
 			<S100FC:code>theUpdate</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>14</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 		<S100FC:S100_FC_Role>
 			<S100FC:name>The Updated Object</S100FC:name>
 			<S100FC:definition>A pointer to a feature that has been updated.</S100FC:definition>
 			<S100FC:code>theUpdatedObject</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>15</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
 		</S100FC:S100_FC_Role>
 	</S100FC:S100_FC_Roles>
 	<S100FC:S100_FC_InformationAssociations>
