@@ -12961,7 +12961,7 @@
 			<S100FC:definition>An active period of a single fixed event or occurrence, as the date range between discrete start and end dates.</S100FC:definition>
 			<S100FC:code>fixedDateRange</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>798</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1241</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
