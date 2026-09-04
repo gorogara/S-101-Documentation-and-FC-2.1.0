@@ -12896,7 +12896,7 @@
 			<S100FC:definition>Provides the name of an entity, defines the national language of the name, and provides the option to display the name at various system display settings.</S100FC:definition>
 			<S100FC:code>featureName</S100FC:code>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>1129</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>1253</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
 			<S100FC:subAttributeBinding sequential="false">
