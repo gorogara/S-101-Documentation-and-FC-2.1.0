@@ -7095,6 +7095,27 @@
 			</S100FC:constraints>
 		</S100FC:S100_FC_SimpleAttribute>
 		<S100FC:S100_FC_SimpleAttribute>
+			<S100FC:name>Depth Substitution</S100FC:name>
+			<S100FC:definition>Indication as to whether the depth value may or may not be substituted for the encoded depth value of the feature under specific hydrographic or charting conditions.</S100FC:definition>
+			<S100FC:code>depthSubstitution</S100FC:code>
+			<S100FC:definitionReference>
+				<S100FC:sourceIdentifier>1419</S100FC:sourceIdentifier>
+				<S100FC:definitionSource ref="IHOREG" />
+			</S100FC:definitionReference>
+			<S100FC:valueType>enumeration</S100FC:valueType>
+			<S100FC:listedValues>
+				<S100FC:listedValue>
+					<S100FC:label>Disable Depth Substitution</S100FC:label>
+					<S100FC:definition>A statement that expresses that the depth replacement of the encoded depth value is not to be performed.</S100FC:definition>
+					<S100FC:code>1</S100FC:code>
+					<S100FC:definitionReference>
+						<S100FC:sourceIdentifier>3725</S100FC:sourceIdentifier>
+						<S100FC:definitionSource ref="IHOREG" />
+					</S100FC:definitionReference>
+				</S100FC:listedValue>
+			</S100FC:listedValues>
+		</S100FC:S100_FC_SimpleAttribute>
+		<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Destination</S100FC:name>
 			<S100FC:definition>The place or general direction to which a vessel is going or directed.</S100FC:definition>
 			<S100FC:code>destination</S100FC:code>
