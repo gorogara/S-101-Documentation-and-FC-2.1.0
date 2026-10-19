@@ -27570,9 +27570,16 @@
 			<S100FC:code>UnderwaterAwashRock</S100FC:code>
 			<S100FC:alias>UWTROC</S100FC:alias>
 			<S100FC:definitionReference>
-				<S100FC:sourceIdentifier>785</S100FC:sourceIdentifier>
+				<S100FC:sourceIdentifier>833</S100FC:sourceIdentifier>
 				<S100FC:definitionSource ref="IHOREG" />
 			</S100FC:definitionReference>
+			<S100FC:attributeBinding sequential="false">
+				<S100FC:multiplicity>
+					<S100Base:lower>0</S100Base:lower>
+					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
+				</S100FC:multiplicity>
+				<S100FC:attribute ref="depthSubstitution" />
+			</S100FC:attributeBinding>
 			<S100FC:attributeBinding sequential="false">
 				<S100FC:multiplicity>
 					<S100Base:lower>0</S100Base:lower>
