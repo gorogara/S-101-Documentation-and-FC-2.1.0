@@ -12865,6 +12865,23 @@
 					<S100Base:lower>1</S100Base:lower>
 					<S100Base:upper xsi:nil="false" infinite="false">1</S100Base:upper>
 				</S100FC:multiplicity>
+				<S100FC:permittedValues>
+					<S100FC:value>3</S100FC:value>
+					<S100FC:value>13</S100FC:value>
+					<S100FC:value>16</S100FC:value>
+					<S100FC:value>17</S100FC:value>
+					<S100FC:value>18</S100FC:value>
+					<S100FC:value>19</S100FC:value>
+					<S100FC:value>20</S100FC:value>
+					<S100FC:value>21</S100FC:value>
+					<S100FC:value>24</S100FC:value>
+					<S100FC:value>25</S100FC:value>
+					<S100FC:value>26</S100FC:value>
+					<S100FC:value>28</S100FC:value>
+					<S100FC:value>29</S100FC:value>
+					<S100FC:value>30</S100FC:value>
+					<S100FC:value>44</S100FC:value>
+				</S100FC:permittedValues>
 				<S100FC:attribute ref="verticalDatum" />
 			</S100FC:subAttributeBinding>
 		</S100FC:S100_FC_ComplexAttribute>	
